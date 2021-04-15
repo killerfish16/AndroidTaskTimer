@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Task Timer</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="noTaskSelected">No Task Selected</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="mainMenu_addTask">AddTask</string>
+    <string name="menuMain_showDurations">Durations Report</string>
+    <string name="mainMenu_settings">Settings</string>
+    <string name="menuMain_showAbout">About Task Timer</string>
+    <string name="menuMain_generate">Generate Data</string>
+    <string name="editButtonDescription">Button to edit task details</string>
+    <string name="deleteButtonDescription">Button to delete a Task</string>
+    <string name="addEdit_name">Task Name ; required</string>
+    <string name="addEdit_description">Task Description (Optional)</string>
+    <string name="addEdit_sortOrder">Order: Sorts  low to high</string>
+    <string name="addEdit_save">Save</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
